@@ -109,8 +109,8 @@ public:
 
         QSqlQuery q( _db);
         QString str = QString("SELECT * FROM %1 WHERE %2")
-                   .arg( tableName)
-                   .arg(condition);
+                .arg( tableName)
+                .arg(condition);
 
         q.exec(str);
 

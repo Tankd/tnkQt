@@ -2,6 +2,6 @@
 #define TnkWidgets_h
 
 #include "tnkwidget/traywidget.h"
-
+#include "tnkwidget/framelesshelper.h"
 
 #endif

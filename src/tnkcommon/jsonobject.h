@@ -3,6 +3,7 @@
 
 #include <QJsonValue>
 #include <QJsonObject>
+#include <QJsonArray>
 
 
 namespace tnk {
